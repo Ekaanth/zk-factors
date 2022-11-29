@@ -1,1 +1,0 @@
-snarkjs zkey export soliditycalldata public.json proof.json
